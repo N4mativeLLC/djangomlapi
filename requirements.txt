@@ -1,0 +1,11 @@
+sklearn
+#gzippy
+django==2.1
+pandas
+numpy
+dill
+#json
+pika
+joblib
+kafka
+django-rest-swagger==2.1

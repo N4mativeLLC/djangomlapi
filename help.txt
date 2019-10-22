@@ -1,0 +1,9 @@
+<html>
+<h1><b>Categorization Model</b></h1>
+<body>
+<p><b>Input parameters</b></p>
+<p>Manufacturer, Item Description</p>
+<p><b>Output</b></p>
+<p>Suggested Category</p>
+</body>
+</html>
