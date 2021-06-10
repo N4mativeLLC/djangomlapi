@@ -1,6 +1,6 @@
 sklearn
 #gzippy
-django==2.1
+django==2.2.24
 pandas
 numpy
 dill
